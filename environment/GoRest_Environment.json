@@ -1,0 +1,34 @@
+{
+	"id": "2b1c3aed-1686-4ae9-8d40-22449fe11bdb",
+	"name": "GORest API",
+	"values": [
+		{
+			"key": "base_url",
+			"value": " https://gorest.co.in/public/v2",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "YOUR_GOREST_TOKEN_HERE",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "user_id",
+			"value": 8507291,
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "post_id",
+			"value": 283279,
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"color": 0,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-06-16T13:41:08.206Z",
+	"_postman_exported_using": "Postman/11.100.0"
+}
